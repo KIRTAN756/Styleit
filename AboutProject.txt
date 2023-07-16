@@ -1,0 +1,11 @@
+This is my Project of Masters.
+
+Project is about Ordering Customizable Shirts Online.
+
+Where User can create Custome shirt with his idea in mind and send request to near by Tailors.
+
+Tailors can give him a offer like, i can made you this type of shirt in this budget if user likes it he accept the offer.
+
+And Tailors have option where they can create their Custome shirt in system and add them to their Collection.
+
+Near by Users can see their Collection and if they like the design of a shirt they simply give order to a tailor of that particular design with their measurments.
